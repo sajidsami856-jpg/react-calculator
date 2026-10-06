@@ -1,0 +1,10 @@
+.display{
+    background-color: #DCDCDD;
+    margin:2rem;
+    margin-bottom: 2rem;
+    border-radius:10px;
+    border:2px solid #DCDCDD;
+    width:80%;
+    /* height:3rem; */
+    font-size:45px;
+}
